@@ -172,3 +172,25 @@ footer{
     text-align: center;
     font-size: 13px;
 }
+.get-us img{
+    width: 30px;
+    height: 30px;
+    margin: 0px 25px;
+}
+.contact-us{
+    width: 1000px;
+    height: 200px;
+    background-color: #2fc27e;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 50px auto;
+    text-align: center;
+    border: none;
+    border-radius: 100px;
+}
+
+.contact-us h3{
+    font-size: 30px;
+    font-weight: 900;
+}
